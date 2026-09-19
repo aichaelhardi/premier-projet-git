@@ -8,5 +8,5 @@ let result =  parseInt(prompt(` entrez element ${i} :`))
    somme = somme + tableau[i];
 }
 console.log ("le  tableau :" );
-
+console.lig
 console.log (`somme est:  ${somme}.`);
